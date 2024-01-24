@@ -1,4 +1,4 @@
-Dépôt pour le tp
-C'est un projet d'apprentissage pour git
+Dépôt pour le tp sur git
+C'est un projet d'apprentissage
 en BTS SIO
 
